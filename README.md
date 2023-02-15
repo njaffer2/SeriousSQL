@@ -1,7 +1,7 @@
 # SeriousSQL
 Case studies for Serious SQL course by Danny Ma
 
-### [Case study no. 1 - Health care analytics](https://github.com/JacobTews/SeriousSQL/blob/main/health_mini_case_study.md)
+### [Case study no. 1 - Health care analytics](https://github.com/njaffer2/SeriousSQL/blob/main/health_mini_case_study.md)
 In case study no. 1, a set of business questions were posed related to a database from a user health-tracking app.
 Some starter SQL code was provided, but it needed debugging in order to solve the questions.
 
